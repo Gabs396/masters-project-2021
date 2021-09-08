@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitising the Jack Common Archive</title>
+                <respStmt>
+                    <resp>Transcribed, edited and compiled by</resp>
+                    <persName>Gabrielle Coates-Bassi</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>The following comes from an unpublished diary belonging to the Jack Common
+                    Archive</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>which is currently being held by Newcastle University, in their Special
+                    Collections and Archives.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The goal of this project is to eventually have the entirety of the Jack Common
+                    Archive digitised so that it can be easily accessed by individuals who may have
+                    never come across it otherwise.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>The following provides both a semi-diplomatic transcription and a modernised
+                    transcription. The semi-diplomatic transcription retains the majority of Jack
+                    Common's original writing conventions, allowing readers to engage with the text
+                    as if it were original, except for a few editorial additions. The modernised
+                    transcription makes a number of changes for the purpose of improved readability
+                    and accessibility. The semi-diplomatic transcription keeps the original
+                    spelling, punctuation and capitlisation of the source text, whereas the
+                    modernised version corrects all three. The modernised transcription uses
+                    elements such as: &quot;sic&quot;,&quot;corr&quot;,&quot;supplied&quot; and
+                    &quot;choice&quot; to do this. Page breaks, line breaks, paragraphs, authorial
+                    additions and deletions in both the semi-diplomatic and modernised
+                    transcriptions are recorded exactly as they appear in the source text, as they
+                    do not have a significant impact on readability, and it keeps both
+                    transcriptions as visually similar to the original as possible. However, a
+                    number of editorial additions have been made and appear in both transcriptions.
+                    Words which have been fully transcribed, but without full confidence, have been
+                    indicated with the element &quot;unclear&quot; and the value
+                    &quot;illegible&quot;, words which have been partially transcribed have been
+                    indicated with the element &quot;gap&quot;, alongside an indication of the
+                    extent, and authorial deletions which could not be transcribed successfully have
+                    been indicated with the self-closing element &quot;gap&quot; and the value
+                    &quot;deleted&quot;.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <p>The diary is a small red book with the word "Notes" printed in gold on the cover.</p>
+        </front>
+        <body>
+            <pb n="1"/>
+            <p>The first page contains no writing of any kind, just a simple grey detailing already
+                printed in the book.</p>
+            <pb n="2"/>
+            <p>The second page contains no writing of any kind, just a simple grey detailing already
+                printed in the book. It is an exact continutation of the first page.</p>
+            <pb n="3"/>
+            <div type="entries" n="1">
+                <space dim="horizontal" extent="1" unit="cm"/>
+                <head><hi rend="ul">Diary (second book)</hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/><date when="1930-03-07">From <space
+                            dim="horizontal" extent="3" unit="cm"/> 7th March 1930</date><lb
+                        type="word_end"/><space dim="horizontal" extent="1" unit="cm"/><date
+                        when="1930-06-29">To <space dim="horizontal" extent="6" unit="cm"/> 29th
+                        June 1930</date><lb type="word_end"/></p>
+            </div>
+            <pb n="4"/>
+            <div type="entries" n="2">
+                <space dim="horizontal" extent="6" unit="cm"/>
+                <head><hi rend="ul"><date when="1930-03-07">Friday 7/3/30.</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Saw <persName>Coulter</persName> at
+                        <time when="15:00:00">three</time>, &amp;<lb type="word_end"/>further
+                    discussed our project, I<lb type="word_end"/>think we are each in the
+                        position<lb type="word_end"/>of not knowing quite what to<lb type="word_end"
+                    />make of the other. He has lived<lb type="word_end"/>so long with scute men,
+                        that<lb type="word_end"/>he has learned to mask his<lb type="word_end"
+                    />egotistic impulses, &amp; so is difficult<lb type="word_end"/>to read.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>He gave me a novel <title
+                        type="book">&quot;All Smoke&quot;</title><lb type="word_end"/>apparently by
+                    a young<lb type="word_end"/>proletarian, &amp; half hinted<lb type="word_end"
+                    />that I might review it for the<lb type="word_end"/>Adelphi.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Later, we got our tickets for<lb
+                        type="word_end"/>the Chelsea Library, &amp; going in<lb type="word_end"/>I
+                    was at once in the position<lb type="word_end"/>of a boy given a quid to spend<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>There was so much on the<lb type="word_end"/><pb
+                        n="5"/>shelves that I want to read<lb type="word_end"/>or have wanted for a
+                    long time<lb type="word_end"/>that I went from one volume<lb type="word_end"/>to
+                    another, unable to settle<lb type="word_end"/>on any one for thinking of the<lb
+                        type="word_end"/>others. When I made my<lb type="word_end"/>reluctant
+                    choice, the feeling<lb type="word_end"/>still persisted, &amp; I was unable<lb
+                        type="word_end"/>to begin any volume, but kept<lb type="word_end"/>glancing
+                    through each in turn.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>The <unclear reason="illegible"
+                        >Legonne</unclear> which I saw<lb type="word_end"/>yesterday lingers in my mind<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>That was a great day for me<lb type="word_end"
+                    />comparable to the night I<lb type="word_end"/>heard my first Mozart. I<lb
+                        type="word_end"/>have the same feeling of entering<lb type="word_end"/>a new
+                    realm. This sounds<lb type="word_end"/>sentimental and tripe, but<lb
+                        type="word_end"/>the fact is, I am pretty<lb type="word_end"/>much of a
+                    barbarian in matters<lb type="word_end"/><pb n="6"/>of painting, &amp;
+                        barbarians<lb type="word_end"/><hi rend="ul">are</hi> sentimental.<lb
+                        type="word_end"/></p>
+            </div>
+            <div type="entries" n="3">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-08">Sat. 8/3/30.</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Read <surname>Coppard</surname> all
+                        the<lb type="word_end"/>afternoon in the <placeName>Royal
+                        Hospital</placeName><lb type="word_end"/>Grounds. I would like to know<lb
+                        type="word_end"/> what <persName>George Moore</persName> thinks of<lb
+                        type="word_end"/>him. In these stories (Adam &amp; Eve<lb type="word_end"
+                    />&amp; Pinch me) there is a queer<lb type="word_end"/>sort of rhythm <pc
+                        force="weak">-</pc> like the <unclear reason="illegible">blamey</unclear><lb
+                        type="word_end"/>quality in an Irish voice. Is<lb type="word_end"
+                        /><surname>Coppard</surname> Irish?</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>On returning, I had an idea<lb
+                        type="word_end"/>for a short<pc force="strong">-</pc>story, &amp; wrote
+                        it<lb type="word_end"/>all in one sitting without a<lb type="word_end"
+                    />break. I don't ever remember<lb type="word_end"/>having done that before.
+                        Of<lb type="word_end"/>course, it needs amplifying<lb type="word_end"/>a
+                    bit, the cl<gap reason="illegible" extent="4" unit="char"/>ts of
+                            <persName>Tim<lb type="word_end"/>Bradon</persName>, just a touch or
+                        two<lb type="word_end"/><pb n="7"/>defining his attitude to the<lb
+                        type="word_end"/>possible fathers, or one or two<lb type="word_end"/>scraggy
+                        <add place="above">sentences</add>
+                    <del type="editorial">/\</del> need the knife, but<lb type="word_end"/>still the
+                    thing runs well, &amp;<lb type="word_end"/>there are no clogged parts.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/><persName>Murry's</persName>
+                    critical method<lb type="word_end"/>pleases me more &amp; more. No<lb
+                        type="word_end"/>nonsense about him ; no axe<lb type="word_end"/>to grind.
+                    But he is the writer's<lb type="word_end"/> critic, more than the readers.<lb
+                        type="word_end"/>They want more fireworks &amp;<lb type="word_end"/>less
+                    steady illumination.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>My aim, I fear, has been<lb
+                        type="word_end"/>fireworks. Was that just<lb type="word_end"/>bumptiousness?
+                    I will follow<lb type="word_end"/>sincerity, for a while, not<lb type="word_end"
+                    />because I believe that quality<lb type="word_end"/>to be universally
+                        valuable<lb type="word_end"/>but because having caught<lb type="word_end"
+                    />myself playing the <unclear reason="illegible">fool</unclear>, it<lb
+                        type="word_end"/><pb n="8"/>is just, I should play the<lb type="word_end"
+                    />penitent. <surplus reason="repeated">Just?</surplus> Just as foolish<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/><add place="above">Incorrigible.</add></p>
+            </div>
+            <div type="entries" n="4">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-09">Sun. 9/3/30.x</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/><persName><unclear
+                            reason="illegible">Suire's</unclear></persName> squibs on
+                            <persName>D.H.<lb type="word_end"
+                        /><surname>Lawrence</surname></persName>. Says nothing, means<lb
+                        type="word_end"/>nothing, knows nothing. Why<lb type="word_end"/>doesn't he
+                    admit that <surname>Lawrence<choice>
+                            <supplied cert="high">'</supplied>
+                        </choice>s</surname><lb type="word_end"/><del type="cancelled">him</del>
+                    work awakes no reaction<lb type="word_end"/>in him except <del type="cancelled"
+                        >ex</del> in one<lb type="word_end"/>or two scene<pc force="strong"
+                        >-</pc>descriptions<lb type="word_end"/>which have the appearance of<lb
+                        type="word_end"/>being pretty.<choice>
+                        <supplied cert="high">?</supplied>
+                    </choice> No mention of<lb type="word_end"/>Lady Chatterley <pc force="weak"
+                        >-</pc> a<lb type="word_end"/>thoroughly scanted job.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>To <placeName>Cross
+                        Keys</placeName>. <persName>M.</persName> being ill<lb type="word_end"/><del
+                        type="cancelled">g</del> went to bed early, leaving<lb type="word_end"/>me
+                    reading by the fireside. A<lb type="word_end"/>long &amp; enjoyable version
+                        of<lb type="word_end"/><persName>Anatole
+                        <surname>France</surname></persName>. <title type="book">The Revolt<lb
+                            type="word_end"/> of the Angels</title><choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> a curiously unequal<add place="below">work</add><choice>
+                        <supplied cert="high">,</supplied>
+                    </choice><lb type="word_end"/><pb n="9"/>none too well translated I<lb
+                        type="word_end"/>should guess.</p>
+            </div>
+            <div type="entries" n="5">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-10">Mon 10/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Rain. Gloom. That is from<lb
+                        type="word_end"/>the inside; once I was out of<lb type="word_end"/>doors, I
+                    didn't mind it<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Went to the
+                        <placeName>Tate</placeName> &amp; spent<lb type="word_end"/>a good deal of
+                    time <del type="cancelled">with</del><add place="above">at</add> the<lb
+                        type="word_end"/><surname>Blakes<choice>
+                            <supplied cert="high">'</supplied>
+                        </choice></surname>, without being able<lb type="word_end"/>to make up my
+                    mind about<lb type="word_end"/>them. I think the dream is<lb type="word_end"
+                    />greater than the power to express,<lb type="word_end"/>or is it that he had an
+                        insecure<lb type="word_end"/>hold upon his visions? They<lb type="word_end"
+                    />tormented him too much.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>I notice that in galleries I<lb
+                        type="word_end"/>am compelled to adopt a mode<lb type="word_end"/>of viewing
+                    which I have not<lb type="word_end"/>observed in others. If the<lb
+                        type="word_end"/>picture is at all large, I<lb type="word_end"/><pb n="10"
+                    />mean of the average dimension, &amp;<lb type="word_end"/>not diminutive, I
+                    must stand<lb type="word_end"/>very far from it<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> sometimes the<lb type="word_end"/>whole width of the gallery is<lb
+                        type="word_end"/>best, and a little to one<lb type="word_end"/>side<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> not immediately opposite,<lb type="word_end"/> so that I see it rather
+                        obliquely.<lb type="word_end"/>Especially is this the case with<lb
+                        type="word_end"/><surname>Dégas</surname>, <del type="cancelled">I</del>
+                    <surname>Van Gogh's</surname> sunflowers,<lb type="word_end"/>or
+                        <surname>Monet</surname>. Standing opposite,<lb type="word_end"/>there is
+                    always light reflected<lb type="word_end"/>on the glass. Art galleries<lb
+                        type="word_end"/>are all <del type="cancelled">w</del> wrong any way.<lb
+                        type="word_end"/>The collection ought to be<lb type="word_end"/>divided up
+                    into groups of two<lb type="word_end"/>or three &amp; hung in various<lb
+                        type="word_end"/><gap reason="illegible" extent="1 letter"/>ul<gap
+                        reason="illegible" extent="2" unit="char"/> &amp; co<gap reason="illegible"
+                        extent="2" unit="char"/>es round the<lb type="word_end"/>town. Painting is a
+                        sensual<lb type="word_end"/>delight &amp; should be<lb type="word_end"
+                    />surrounded with an atmosphere<lb type="word_end"/><pb n="11"/>of pleasure.
+                    Thank God! w<choice>
+                        <supplied cert="high">W</supplied>
+                    </choice>e<lb type="word_end"/>can take our novels &amp; poetry<lb
+                        type="word_end"/>by the fireside, &amp; get a drink<lb type="word_end"
+                    />between the acts of a play<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>It was already getting dark<lb
+                        type="word_end"/>&amp; one corner of the yard was full<lb type="word_end"
+                    />of shadows. Although a <del type="cancelled">f</del> big<lb type="word_end"
+                    />fire was blazing in the room, the<lb type="word_end"/>window<pc force="strong"
+                        >-</pc>pane was cold &amp; damp<lb type="word_end"/>with steam, so icy cold
+                        that<lb type="word_end"/>if you ran your finger along it<lb type="word_end"
+                    />there was a <unclear reason="illegible">funny</unclear> chilling <gap
+                        reason="illegible" extent="3" unit="char"/>e<lb type="word_end"/>l<gap
+                        reason="illegible" extent="4" unit="char"/>th the finger nail.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Under the b<gap reason="illegible"
+                        extent="3" unit="char"/>e bl<gap reason="illegible" extent="4" unit="char"/>
+                        tree<lb type="word_end"/>outside the cat sat, looking<lb type="word_end"/>up
+                    with black <del type="cancelled">glosy</del> glossy<lb type="word_end"/> eyes at
+                    the sky. Tumbled<lb type="word_end"/>black clouds were blowing<lb
+                        type="word_end"/> over from the e<choice>
+                        <supplied cert="high">E</supplied>
+                    </choice>ast &amp; in their<lb type="word_end"/>folds<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> faint early stars were<lb type="word_end"/><del rend="strikethrough"
+                        >every now &amp; then</del> engulfed &amp;<lb type="word_end"/>tossed free
+                    again. Above the <lb type="word_end"/>mess a high sickle moon hung,<lb
+                        type="word_end"/>in a rare vapour of faint<lb type="word_end"/>blue. To the w<choice>
+                        <supplied cert="high">W</supplied>
+                    </choice>est, <del type="cancelled">was</del> behind<lb type="word_end"/>the
+                    straggling branches of the tree<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice><lb type="word_end"/>a long cloud gleamed like the<lb type="word_end"
+                    />belly of fish with scaly brightness<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>It was late, it would soon be<lb type="word_end"
+                    />dark, already the lamp in<lb type="word_end"/> the lane was lit, and
+                        through<lb type="word_end"/>the rugged <choice>
+                        <sic>slitt</sic>
+                        <corr>slit</corr>
+                    </choice> at the bottom<lb type="word_end"/> of the yard door long fingers<lb
+                        type="word_end"/> of yellow light lurked. The<lb type="word_end"/> cat got
+                    up &amp; yawned. There<lb type="word_end"/>was a rattle of c<gap
+                        reason="illegible" extent="4" unit="char"/>
+                    <unclear reason="illegible">int</unclear> a<lb type="word_end"/>scuttle down the
+                        lane.<lb type="word_end"/><pc force="weak">-</pc><lb/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/><persName>Tommy</persName> came in
+                    at <time when="01:30:00">1.30</time> after<lb type="word_end"
+                        /><persName>M</persName>. &amp; I had retired. I got up<lb type="word_end"
+                        /><pb n="12"/>&amp; we warmed his dinner. This<lb type="word_end"/>oddly,
+                    recalled old days at<lb type="word_end"/>
+                    <address>
+                        <addrLine>Hotspur St.</addrLine>
+                    </address><lb type="word_end"/></p>
+            </div>
+            <div type="entries" n="6">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-11">Tue. 11/3/30</date>.</hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Reproduction of pictures are<lb
+                        type="word_end"/>aids to the memory, but you<lb type="word_end"/>must have
+                    seen the original<lb type="word_end"/>first. They are somehow<lb type="word_end"/><choice>
+                        <sic>devitelised</sic>
+                        <corr>devitalised</corr>
+                    </choice> &amp; reduced towards<lb type="word_count"/>their common level. This
+                        should<lb type="word_end"/>be true of music, too.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>I dreamt last night that<lb
+                        type="word_end"/>I was discussing the <surname>Bacon</surname><pc
+                        force="weak">-</pc><lb/><surname>Shakespeare</surname> controversy with<lb
+                        type="word_end"/>a smooth &amp; blah<pc force="strong">-</pc>ing parson<lb
+                        type="word_end"/>who took an intolerable time to<lb type="word_end"/>come to
+                    the point. This exasperated<lb type="word_end"/>me. I was furious with<lb
+                        type="word_end"/>impatience. But when he<lb type="word_end"/>finally came to
+                    a stop, I<lb type="word_end"/><pb n="13"/>found that in my irritation<lb
+                        type="word_end"/>I could not express what I had<lb type="word_end"/>meant to
+                    say. There it was<lb type="word_end"/>just at the back of my mind.<lb
+                        type="word_end"/>In a moment I should think<lb type="word_end"/>of it.
+                    Meanwhile, I went on<lb type="word_end"/>talking round &amp; round the<lb
+                        type="word_end"/>subject just as the parson did<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>He held his smooth head a <lb type="word_end"
+                    />little on one side, &amp; kept<lb type="word_end"/>saying <choice>
+                        <sic><quote>Quaite, quaite</quote></sic>
+                        <corr><quote>Quite, quite</quote></corr>
+                    </choice>, or<lb type="word_end"/>sometimes, <quote>Oh no I beg to
+                        differ.</quote><lb type="word_end"/>u<choice>
+                        <supplied cert="high">U</supplied>
+                    </choice>ntil I found myself talking<lb type="word_end"/> absolute balderdash,
+                    &amp; still<lb type="word_end"/>unable to grasp that fugitive<lb type="word_end"
+                    />thought, hiding just out of<lb type="word_end"/>reach in my mind. <q>You're
+                            a<lb type="word_end"/> bloody fool</q>, I shouted.<lb type="word_end"
+                    /></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>What I had meant to say<lb
+                        type="word_end"/> was this. I thought of it<lb type="word_end"/><pb n="14"
+                    />immediately <choice>
+                        <supplied cert="high">as</supplied>
+                    </choice> I woke, before<lb type="word_end"/>I remembered the dream. The<lb
+                        type="word_end"/>Baconians seem to argue that<lb type="word_end"/>it is much
+                    too great a miracle<lb type="word_end"/>that <surname>Shakespeare</surname> who
+                        was<lb type="word_end"/>neither a noble or a scholar<lb type="word_end"
+                    />should have written these plays.<lb type="word_end"/>Obviously, though, it is
+                    just as<lb type="type_end"/>great a miracle for a noble<lb type="word_end"/>or a
+                    scholar to write them.<lb type="word_end"/>It is a miracle for whoever writes<lb
+                        type="word_end"/>them. Again, I have heard<lb type="word_end"/>it argued
+                    that a poor man<lb type="word_end"/>would never be able to write<lb
+                        type="word_end"/><del type="cancelled">i</del> intimately of the court.
+                        But<lb type="word_end"/>poor men have always written<lb type="word_end"
+                    />intimately of the court; and<lb type="word_end"/>there are few courtiers
+                        who<lb type="word_end"/>have written intimately of the<lb type="word_end"
+                    />poor. No, no; if anyone asks<lb type="word_end"/><pb n="15"/>how could
+                        <surname>Shakespeare</surname> write<lb type="word_end"/>such and such a
+                    thing, the<lb type="word_end"/>unanswerable reply is to<lb type="word_end"/>turn
+                    to another passage &amp; ask<lb type="word_end"/>how could
+                        <surname>Bacon</surname> write that.<choice>
+                        <supplied cert="high">?</supplied>
+                    </choice><lb type="word_end"/>How did Shakespeare write<lb type="word_end"/>
+                    this? We don't know how<lb type="word_end"/>he did; we don't know how<lb
+                        type="word_end"/>any man could write them.<lb type="word_end"/>Having
+                    acknowledged the<lb type="word_end"/>miracle, we do not diminish<lb
+                        type="word_end"/>its incredibility by writing<lb type="word_end"
+                    />&quot;noble&quot;, or &quot;doctor&quot;, where<lb type="word_end"/> formerly
+                    stood &quot;actor&quot;, &quot;preacher&quot;,<lb type="word_end"
+                    />&quot;bookseller's son.&quot;</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Went to the
+                        <placeName>Kings</placeName> with <persName>M.</persName><lb type="word_end"
+                    />to see their first talkie.<lb type="word_end"/>A very annoying show <pc
+                        force="weak">-</pc> I miss<lb type="word_end"/>voices &amp; a spice of
+                        humour.<lb type="word_end"/>No doubt this is the art of the<lb
+                        type="word_end"/><pb n="16"/>future. To ignore it is to<lb type="word_end"
+                    />write court<pc force="strong">-</pc>marques for<lb type="word_end"
+                        /><persName>Elizabeth</persName>, &amp; turn up our noses<lb type="word_end"
+                    />at <placeName>Blackfriars</placeName>.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Continued short<pc force="strong"
+                        >-</pc>story &amp;<lb type="word_end"/> played bridge.</p>
+            </div>
+            <div type="entries" n="7">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-12">Wed 12/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>To <choice>
+                        <supplied cert="high">the</supplied>
+                    </choice> library. I had to leave<lb type="word_end"/>in haste for a shit.
+                        Peculiar<lb type="word_end"/>that the smell of books should<lb
+                        type="word_end"/>have this effect on me, as it<lb type="word_end"/>does
+                    often. That the mere<lb type="word_end"/>aroma of literary works should<lb
+                        type="word_end"/>produce <choice>
+                        <sic>so violent</sic>
+                        <corr>such violence</corr>
+                    </choice> &amp; catharsis<lb type="word_end"/><del type="cancelled">c</del><add
+                        place="above">is</add> a contingency not accounted<lb type="word_end"/>for
+                    in <persName>Aristotle</persName>. I wonder<lb type="word_end"/>if many people
+                    are so moved.<lb type="word_end"/>Or is it a peculiar <choice>
+                        <sic>sensitivenen</sic>
+                        <corr>sensitivity</corr>
+                    </choice><lb type="word_end"/>of mine? If it is not<lb type="word_end"/><choice>
+                        <sic>indisgesative</sic>
+                        <corr>indigestive</corr>
+                    </choice>, one might imagine<lb type="word_end"/><pb n="17"/>parents locking up
+                        their<lb type="word_end"/>children in libraries for a <lb type="word_end"
+                    />test, &amp; anxiously scanning<lb type="word_end"/>the floor afterwards for<lb
+                        type="word_end"/>indications of the literary<lb type="word_end"/><unclear
+                        reason="illegible">lent</unclear>.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Read <surname>Van
+                        Druten's</surname>
+                    <title type="drama">&quot;After All&quot;</title>,<lb type="word_end"/>P<choice>
+                        <supplied cert="high">p</supplied>
+                    </choice>oor<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> tired work, not at all<lb type="word_end"/>fulfilling the promise of
+                        <title type="drama">&quot;Young<lb type="word_end"/> Woodley &quot;</title>.
+                    He has nothing to <lb type="word_end"/>say. I expect he wrote <choice>
+                        <supplied cert="high">it</supplied>
+                    </choice><lb type="word_end"/>because he is now a dramatist<lb type="word_end"
+                    />&amp; everyone <hi rend="ul">would</hi>
+                    <unclear reason="illegible" extent="5" unit="char"/> in<lb type="word_end"
+                    />asking him when his next play<lb type="word_end"/>was appearing. It is a
+                        hell<lb type="word_"/>of a thing for a for a man to succeed<lb
+                        type="word_end"/>easily. It is bound to be a<lb type="word_end"/>stroke of
+                        <del rend="strikethrough">luck</del> luck, &amp; strokes<lb type="word_end"
+                    />of luck are insufficient unless<lb type="word_end"/>backed up by a knowledge
+                        of<lb type="word_end"/><pb n="18"/>technique which can spin<lb
+                        type="word_end"/>out this material. <title type="drama">&quot;Woodley
+                        &quot;</title><lb type="word_end"/> very probably wrote itself.<lb
+                        type="word_end"/>The theme of this play is slight.<lb type="word_end"/>It
+                    should be an air with<lb type="word_end"/>variation, the variation being<lb
+                        type="word_end"/>provided out of a rich experience.<lb type="word_end"
+                    />Characters not strictly necessary<lb type="word_end"/>but a joy in themselves,
+                        might<lb type="word_end"/>have been introduced. Well<lb type="word_end"
+                        /><del type="cancelled">it</del> the thing should have been<lb
+                        type="word_end"/>a novel anyway; it is not<lb type="word_end"/>conceived as
+                    a drama.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Bought some typing<pc
+                        force="strong">-</pc>paper<lb type="word_end"/> in
+                        <placeName>Knightsbridge</placeName> &amp; discovered<lb type="word_end"/>we
+                    are broke; owing to <persName>Mary</persName><lb type="word_end"/>having paid
+                    the milkman. I<lb type="word_end"/>wonder if he would ever get<lb
+                        type="word_end"/>paid were I living alone. Ten<lb type="word_end"/>to one
+                    I'd decide to live on<lb type="word_end"/><pb n="19"/>condensed or short my<pc
+                        force="strong">-</pc>deal<lb type="word_end"/>or whatever they <del
+                        type="cancelled"/> quiet our<lb type="word_end"/>door with.<lb
+                        type="word_end"/><pc force="weak">-</pc><lb type="word_end"/><space
+                        dim="horizontal" extent="1" unit="cm"/>I saw her get off the tram,<lb
+                        type="word_end"/>look around, &amp; flash a smile<lb type="word_end"/>as she
+                    saw me standing. She<lb type="word_end"/>walked daintily across the road<lb
+                        type="word_end"/>with that tiny swing of the body<lb type="word_end"/>which
+                    is a sort of <unclear reason="illegible"/>, looking<lb type="word_end"/>this way
+                    &amp; that way of the<lb type="word_end"/>traffic but never at me<lb
+                        type="word_end"/>until only a couple of yards<lb type="word_end"/>separated
+                    us. Then she smiled<lb type="word_end"/>again.<lb type="word_end"/><space
+                        dim="horizontal" extent="1" unit="cm"/><quote>Been waiting long,<choice>
+                            <supplied cert="high">?</supplied>
+                        </choice></quote> she said,<lb type="word_end"/>slipping <del
+                        rend="strikethrough">t</del> her <del type="cancelled">in</del> tiny gloved
+                        hand<lb type="word_end"/>from mine.<lb type="word_end"/><space
+                        dim="horizontal" extent="1" unit="cm"/><quote>No. Not long. Where shall we go.<choice>
+                            <supplied cert="high">?</supplied>
+                        </choice></quote><lb type="word_end"/><pb n="20"/><quote>Where<choice>
+                            <supplied cert="high">ever</supplied>
+                        </choice>
+                        <hi rend="ul">you</hi> like<choice>
+                            <supplied cert="high">.</supplied>
+                        </choice></quote> She kept<lb type="word_end"/>her gaze fixed on the
+                        pavement.<lb type="word_end"/><quote>A walk?</quote> I suggested<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/><quote>Yes</quote><choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>A shade passed over her face. It<lb
+                        type="word_end"/>was all she expected, but one hopes.<lb type="word_end
+                    "/>I <choice>
+                        <sic>devined</sic>
+                        <corr>divined</corr>
+                    </choice> that feeling in her &amp;<lb type="word_end"/>talked rapidly to make
+                        her<lb type="word_end"/>forget. She told me things too,<lb type="word_end"
+                    />about her work, dances she had<lb type="word_end"/>been to<del
+                        rend="strikethrough">o</del>; <del type="cancelled">f</del> her friends, trivialities<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>All the while her eyes retained<lb type="word_end"
+                    />their curious tranquility. And<lb type="word_end"/>her little <gap
+                        reason="deleted"/>white<pc force="strong">-</pc>gloved hand<lb
+                        type="word_end"/>lay on my arm like a sleeping<lb type="word_end"
+                        />kitten.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>We crossed the main road &amp;<lb
+                        type="word_end"/>
+                    <del rend="strikethrough">crossed</del> turned into the moor.<lb type="word_end"
+                    />She made no comment on the<lb type="word_end"/>path I had chosen.<gap
+                        reason="illegible"/> The tufts<lb type="word_end"/><pb n="21"/>of thick
+                    grass clung to her<lb type="word_end"/>feet &amp; she <gap reason="deleted"/>
+                        tripped<lb type="word_end"/>clinging tighter to <del rend="strikethrough">my
+                        arm</del> me.<lb type="word_end"/>I slipped my arm round her<lb
+                        type="word_end"/>waist. Her little body quivered<lb type="word_end"/>&amp;
+                        straightened.<lb type="word_end"/><quote>Don<choice>
+                            <supplied cert="high">'</supplied>
+                        </choice>t,</quote> she said attempting<lb type="word_end"/>to disengage
+                        it.<lb type="word_end"/><quote>Why?</quote><lb type="word_end"
+                        /><quote>People will see us</quote><lb type="word_end"/><quote>Does that matter<choice>
+                            <supplied cert="high">?</supplied>
+                        </choice></quote><lb type="word_end"/>It didn't, &amp; my arm stayed<lb
+                        type="word_end"/>there but she had r<gap reason="illegible" extent="1"
+                        unit="char"/>gist<gap reason="illegible" extent="2" unit="char"/>d<lb
+                        type="word_end"/>her protest.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>An autumn wind swept<lb
+                        type="word_end"/>over the moor cutting white lanes<lb type="word_end"/>in
+                    the grass. It sang in our<lb type="word_end"/>ears as we walked against it.<lb
+                        type="word_end"/>She bent her head to escape<lb type="word_end"/><del
+                        rend="strikethrough">her</del> its violence &amp; this accentuated<lb
+                        type="word_end"/><pb n="22"/>the <choice>
+                        <sic>sensetiveness</sic>
+                        <corr>sensitivity</corr>
+                    </choice> which lived in<lb type="word_end"/>the unsearchable tranquility of<lb
+                        type="word_end"/>her eyes, &amp; the odd curving<lb type="word_end"/>corners
+                    of her lips. Monna Lisa<lb type="word_end"/> I thought, but that was absurd<lb
+                        type="word_end"/> for <del rend="strikethrough">her</del>
+                    <choice>
+                        <sic>their</sic>
+                        <corr>there</corr>
+                    </choice> is no evil in her<lb type="word_end"/>mystery. She is a child. Her<lb
+                        type="word_end"/>soul muses.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>We skirted the br<gap
+                        reason="illegible" extent="2" unit="char"/>t of trees<lb type="word_end"
+                    />behind which the ground falls<lb type="word_end"/>away in a long grassy
+                        hollow<lb type="word_end"/>ending in a water<pc force="strong">-</pc>trough
+                        <del rend="strikethrough">T</del> at<lb type="word_end"/>which the cows
+                    drink. On<lb type="word_end"/>the western bank of this, sheltered<lb
+                        type="word_end"/>by the wind<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> we lay down.<lb type="word_end"/>Opposite, the <del
+                        rend="strikethrough">top o</del> cu<gap reason="illegible" extent="2"
+                        unit="char"/>ing top<lb type="word_end"/>of the mound blazed in the<lb
+                        type="word_end"/>light of a late sun, but we<lb type="word_end"/>were in
+                    shadow. In an uncanny<lb type="word_end"/> clear twilight through which<lb
+                        type="word_end"/><pb n="23"/><choice>
+                        <sic>wispes</sic>
+                        <corr>wisps</corr>
+                    </choice> of cold air moved. She<lb type="word_end"/>shivered.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>I put my arm around her<lb
+                        type="word_end"/>&amp; drawing close <choice>
+                        <supplied cert="high">,</supplied>
+                    </choice>kissed her<lb type="word_end"/>cold lips. <del rend="strikethrough">Her
+                        eyes were fixed<lb type="word_end"/> on th</del> She did not look at<lb
+                        type="word_end"/>me but beyond at <del type="editorial">/\</del>
+                    <add place="above">the</add> trees<lb type="word_end"/>shaking in the wind &amp;
+                        <gap reason="deleted"/><lb type="word_end"/>brilliant with burning gold<lb
+                        type="word_end"/>&amp; black shadow patches.<lb type="word_end"/><quote>What
+                        is the matter?</quote> I asked<lb type="word_end"/><quote>Nothing<choice>
+                            <supplied cert="high">.</supplied>
+                        </choice></quote> She looked at<lb type="word_end"/>me surprised. Her eyes
+                        are<lb type="word_end"/>brown, a clear brown with<lb type="word_end"/>flecks
+                    in them. But when one<lb type="word_end"/>looks in her eyes it <choice>
+                        <supplied>is</supplied>
+                    </choice> as if<lb type="word_end"/>that secret self of hers <choice>
+                        <sic>lurkes</sic>
+                        <corr>lurks</corr>
+                    </choice><lb type="word_end"/>now in her lips. I kissed<lb type="word_end"/>her
+                    again.</p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>She shifted uneasily.<lb
+                        type="word_end"/><pb n="24"/><quote>Aren't you comfortable?</quote> I said <choice>
+                        <supplied>.</supplied>
+                    </choice><lb type="word_end"/><pc force="weak">-</pc><lb type="word_end"/>And
+                    that is not right, either.<lb type="word_end"/></p>
+            </div>
+            <div type="entries" n="8">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-13">Thur 13/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Last night I lay awake<lb
+                        type="word_end"/>thinking of sensitivity &amp;<lb type="word_end"
+                    />insensitivity in <del rend="strikethrough">art</del> matters of<lb
+                        type="word_end"/>art. I think the reason why<lb type="word_end"/>that which
+                    moves an artistic<lb type="word_end"/>man so profoundly leaves a<lb
+                        type="word_end"/>philistine cold must be some<lb type="word_internal"/>thing
+                    like this. There are<lb type="word_end"/>certain accidental illusions<lb
+                        type="word_end"/>which everyone encounters. Not<lb type="word_end"/>long
+                    ago, for instance, a piece<lb type="word_end"/>of white rag blown against a <lb
+                        type="word_end"/>bush deceived me for a<lb type="word_end"/>moment into
+                    thinking there<lb type="word_end"/>was a nun standing by the<lb type="word_end"
+                    />garden path. Clothing c<gap reason="illegible" extent="2" unit="char"/>t<lb
+                        type="word_end"/><pb n="25"/>down in careless folds, stumps<lb
+                        type="word_end"/>of trees, furniture of unfamiliar<lb type="word_end"/>shape
+                        <pc force="weak">-</pc> they have all produced<lb type="word_end"/>an
+                    illusion some time or other<lb type="word_end"/>to someone's eyes.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Art is such an illusion.<lb
+                        type="word_end"/>A white rag or a tree<pc force="strong">-</pc>branch<lb
+                        type="word_end"/>make a nun; a smear of paint<lb type="word_end"/>&amp; a
+                        <del rend="strikethrough">can</del> canvas make a <lb type="word_end"
+                    />goddess. But only for those<lb type="word_end"/>who are ready to be
+                        deceived.<lb type="word_end"/>The philistine whose gaze has<lb
+                        type="word_end"/>not grown dim through being<lb type="word_end"/>turned
+                    inward looks straight<lb type="word_end"/>&amp; sees a rag or a tree. Very<lb
+                        type="word_end"/>naturally he is annoyed to be<lb type="word_end"/> told
+                    that there is more there.<lb type="word_end"/>For him <gap reason="deleted"
+                        extent="8" unit="char"/> symphonies<lb type="word_end"/>decompose into their
+                        simple<lb type="word_end"/>elements, the golden chain of<lb type="word_end"
+                        /><pb n="26"/>poetry breaks at his touch;<lb type="word_end"/>&amp; the
+                    visions of the painter<lb type="word_end"/>disperse before him.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Insensitive people find always<lb
+                        type="word_end"/>something absurd in a work of<lb type="word_end"/>art. They
+                    know too well the<lb type="word_end"/>everyday uses of things. Hence<lb
+                        type="word_end"/>it is, that the musician is most<lb type="word_end"
+                    />respected, &amp; the poet least so.<lb type="word_end"/>The material of poetry
+                        has<lb type="word_end"/> been used in the market<pc force="strong"
+                        >-</pc>place;<lb type="word_end"/>but music is <choice>
+                        <orig>faery</orig>
+                        <reg>fairy</reg>
+                    </choice><pc force="strong">-</pc>gold. The<lb type="word_end"/>musician can be
+                        respected<lb type="word_end"/>because he does not tamper<lb type="word_end"
+                    />with the currency, respected or<lb type="word_end"/>ignored. But the poet
+                        must<lb type="word_end"/>be denounced as a fool<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>To <placeName> Shepherd<choice>
+                            <sic>s'</sic>
+                            <corr>'s</corr>
+                        </choice> Bush</placeName>. In<lb type="word_end"/>excellent good<pc
+                        force="strong">-</pc>humour today,<lb type="word_end"/>I welcomed
+                        <persName>Gilbert</persName> as though<lb type="word_end"/><pb n="27"/>I had
+                    not seen him for months<choice>
+                        <supplied>.</supplied>
+                    </choice><lb type="word_end"/>A very Russian sort of day,<lb type="word_end"
+                    />awash with tea, &amp; endless<lb type="word_end"/>talk. Finally, at <time>3
+                        a.m</time>, we<lb type="word_end"/>walked home, the <del
+                        rend="strikethrough">night</del><add place="above">morning</add><lb
+                        type="word_end"/>being very mild &amp; pleasant.<lb type="word_end"/>There
+                    was a moon but the<lb type="word_end"/>earth seemed to glow with a<lb
+                        type="word_end"/>soft light independent of<lb type="word_end"/>that. The
+                    atmosphere was<lb type="word_end"/>clear but not hard, &amp; it was<lb
+                        type="word_end"/>wonderful how the black shapes<lb type="word_end"/>of
+                    houses had a warm depth<lb type="word_end"/>of colour like a pastel. The<lb
+                        type="word_end"/>clocks were striking <time>four</time> as<lb
+                        type="word_end"/>we searched for the key.</p>
+            </div>
+            <div type="entries" n="9">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-14">Fri 14/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Arose at <time>1 p.m</time>, after
+                        thinking<lb type="word_end"/>for a while of <surname>Lawrence<choice>
+                            <supplied cert="high">'</supplied>
+                        </choice>s</surname> pamphlet<lb type="word_end"/>which I read at <persName>Gilbert<choice>
+                            <supplied cert="high">'</supplied>
+                        </choice>s</persName><lb type="word_end"/><pb n="28"/><date
+                        when="1930-03-13">yesterday</date>. A clean, vigorous <choice>
+                        <supplied cert="high">&amp;</supplied>
+                    </choice><lb type="word_end"/>healthy piece of work that.<lb type="word_end"
+                    />Shamefully reviewed, I remember<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/>The reviewers totally neglected<lb type="word_end"
+                    />his argument, seized <del type="strikethrough">one</del> on one<lb
+                        type="word_end"/>or two slipshod expressions, &amp;<lb type="word_end"/>by
+                    exaggerating the importance<lb type="word_end"/>of these, <choice>
+                        <sic>succeeding</sic>
+                        <corr>succeeded</corr>
+                    </choice> in conveying<lb type="word_end"/>an impression that
+                        <surname>Lawrence</surname><lb type="word_end"/><choice>
+                        <sic>isas</sic>
+                        <corr>is</corr>
+                    </choice> cranky &amp; incapable.<lb type="word_end"/>Fools! He is
+                        fundamentally<lb type="word_end"/>right, his criticisms are<lb
+                        type="word_end"/>frighteningly true, but he goes<lb type="word_end"/>too
+                    far. That should be an<lb type="word_end"/><choice>
+                        <sic>honests</sic>
+                        <corr>honest</corr>
+                    </choice> man's reactions. To<lb type="word_end"/>awake these is praise for a<lb
+                        type="word_end"/>writer. My first impulse<lb type="word_end"/>was to find
+                    out how guilty<lb type="word_end"/>I am of the feelings &amp; thoughts<lb
+                        type="word_end"/>he ascribes to onanists. A<lb type="word_end"/><pb n="29"
+                    />great deal I fear. Then I<lb type="word_end"/>wondered if I would like to
+                        be<lb type="word_end"/>in what he would admit a<lb type="word_end"/>state of
+                    grace. And that led<lb type="word_end"/>me to discover wherein he e<gap
+                        reason="illegible" extent="2" unit="char"/>e.<lb type="word_end"/>I don't
+                    know his work well,<lb type="word_end"/>but I understand that in<lb
+                        type="word_end"/><title type="book">Lady Chatterley's Lover</title> he<lb
+                        type="word_end"/>endeavours to describe a perfect<lb type="word_end"
+                    />physical union; &amp; that this<lb type="word_end"/>may be taken as the type
+                        of<lb type="word_end"/>what he expects in art. The<lb type="word_end"
+                    />trouble is, though, that these<lb type="word_end"/>physical unions are by
+                        no<lb type="word_end"/>means frank or clean, &amp; if<lb type="word_end"
+                    />they were they are <del rend="strikethrough">not</del> still<lb
+                        type="word_end"/>denuded of much that men<lb type="word_end"/>desire. I
+                    think I have experienced<lb type="word_end"/>perfect physical union, &amp;
+                        for<lb type="word_end"/>that alone I wouldn't<lb type="word_end"/><pb n="30"
+                    />sacrifice a year's work. It<lb type="word_end"/>is disappointing; it simply<lb
+                        type="word_end"/>does not satisfy; it is a<lb type="word_end"/>diluted &amp;
+                    uncertain pleasure.<lb type="word_end"/>For <surname>Lawrence</surname> neglects
+                        the<lb type="word_end"/>dreams of youth which by<lb type="word_end"
+                    />shedding some radiance on<lb type="word_end"/>the <del rend="strikethrough"
+                        >o</del> union of a desirous pair<lb type="word_end"/>cause them to forget
+                    the sordid<lb type="word_end"/>things inevitable to the re<gap
+                        reason="illegible" extent="7" unit="char"/><lb type="word_end"/>of the
+                    flesh. Physical satisfaction<lb type="word_end"/>has but a small part in the<lb
+                        type="word_end"/>pleasures of love. It is apt to<lb type="word_end"/> be a
+                    smelly &amp; absurd m<gap reason="illegible" extent="8" unit="char"/>e<lb
+                        type="word_end"/>which requires considerable<lb type="word_end"
+                    />idealisation before it is tolerable<lb type="word_end"/>to a person with taste
+                    or a<lb type="word_end"/>sense of humour. <del rend="strikethrough">For
+                        the</del> As a<lb type="word_end"/>matter of fact, most activities<lb
+                        type="word_end"/>require idealisation, &amp; we cannot<lb type="word_end"
+                        /><pb n="31"/>pursue them. But <surname>Lawrence</surname><lb
+                        type="word_end"/>would say the present idealisations<lb type="word_end"/>are
+                    onanistic &amp; false. Many<lb type="word_end"/>of them are, but of some I
+                        have<lb type="word_end"/>a suspicion he holds them<lb type="word_end"
+                    />onanistic merely because they<lb type="word_end"/> are idealisation. In any<lb
+                        type="word_end"/>case the way out is to idealise<lb type="word_end"/><choice>
+                        <sic>truely</sic>
+                        <corr>truly</corr>
+                    </choice>. If <surname>Lawrence</surname> has<lb type="word_end"/>not attempted
+                    that, his<lb type="word_end"/>case is considerably weakened<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice></p>
+                <p>To <placeName>Shepherd<choice>
+                            <sic>s'</sic>
+                            <corr>'s</corr>
+                        </choice> Bush</placeName> again<lb type="word_end"/> to see <title
+                        type="book"><del rend="strikethrough">Lady Chatterley's</del></title>
+                    <title type="film">The<lb type="word_end"/>Last of Mrs. Cheyney</title>. Very<lb
+                        type="word_end"/>well cast &amp; acted. Contains<lb type="word_end"/>one
+                    very good actor, <persName>Lord Elton</persName>.<lb type="word_end"/>But
+                        <surname>Lonsdale</surname> is not great<lb type="word_end"/>enough to make
+                    this character<lb type="word_end"/>quite irresistable. He is the<lb
+                        type="word_end"/>slave of a plot, &amp; <persName>Lord Elton</persName><lb
+                        type="word_end"/><pb n="32"/>is sacrificed to make a neat<lb type="word_end"
+                    />finish, &amp; bring down the last<lb type="word_end"/>curtain with wedding
+                        bells<lb type="word_end"/>heard off. Supper at <placeName>Holland<lb
+                            type="word_end"/>Park</placeName>, where friend
+                        <persName>Piccolomini</persName><lb type="word_end"/>was entertaining a ballet<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice></p>
+            </div>
+            <div type="entries" n="10">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-15">Sat. 15/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Arose at <time>12.30</time>. Damp <choice>
+                        <supplied cert="high">&amp;</supplied>
+                    </choice><lb type="word_end"/>miserable day. Wrote letters<lb type="word_end"
+                    />all the afternoon &amp; evening.<lb type="word_end"/>Finished the <title
+                        type="book">Red Lilly</title> that<lb type="word_end"/>so<pc force="strong"
+                        >-</pc>French novel. Its <gap reason="illegible" extent="9" unit="char"/><lb
+                        type="word_end"/>did not interest me greatly, despite<lb type="word_end"
+                    />their <del rend="strikethrough">t</del> technical excellencies. A<lb
+                        type="word_end"/>brief hand of bridge &amp; bed.</p>
+            </div>
+            <div type="entries" n="11">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-16">Sun 16/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Awake <time>10.30</time>. In rather
+                        a<lb type="word_end"/>worried mood. <persName>Spuggy</persName>,
+                        <persName>Gil</persName> &amp;<lb type="word_end"/><persName>Con</persName>
+                    arrived &amp; we went to the<lb type="word_end"/><placeName>Tate</placeName><choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> arriving just as the doors<lb type="word_end"/><pb n="33"/>were being
+                    closed. Returned for<lb type="word_end"/>dinner &amp; then going out to pl<gap
+                        reason="illegible" extent="4" unit="char"/>,<lb type="word_end"
+                        /><persName>G</persName> &amp; I slipped into the
+                        <placeName>Pier</placeName>.<lb type="word_end"/><persName>Tommy</persName>
+                    came home in high<lb type="word_end"/>spirits &amp; after <persName>G</persName>
+                    &amp; <persName>C</persName> had<lb type="word_end"/>departed we called in at
+                        the<lb type="word_end"/><placeName>Cross Keys</placeName>.</p>
+            </div>
+            <div type="entries" n="12">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-17">Mon 17/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/><persName>Tommy</persName> burst in
+                    with a letter<lb type="word_end"/>from <persName>Coulter</persName>, <del
+                        rend="strikethrough">I</del> who has won<lb type="word_end"/>over
+                        <persName>Murry</persName> to give his consent<lb type="word_end"/>to the
+                    prosecution of our <unclear reason="illegible"/>.<lb type="word_end"/>This woke
+                    us up, but <persName>Mary</persName><lb type="word_end"/>refused to rise, &amp;
+                    in the middle<lb type="word_end"/>of the argument we fell asleep.<lb
+                        type="word_end"/>Hence, day spoiled. Went to<lb type="word_end"/>the library
+                    by which time the<lb type="word_end"/>day had become miserable;<lb
+                        type="word_end"/>returned &amp; sat around reading.<lb type="word_end"
+                    />Attempted to write but as<lb type="word_end"/><pb n="34"/>always it was
+                    useless while that<lb type="word_end"/>mood lasted.
+                        <persName>Tommy</persName>returned<lb type="word_end"/>at <time>12.30</time>
+                    &amp; joined his misery<lb type="word_end"/>to mine.</p>
+            </div>
+            <div type="entries" n="13">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-18">Tue 18/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Fresh spring sunshine flooded<lb
+                        type="word_end"/>the room as I awoke from an<lb type="word_end"/>absurd
+                    dream about the<lb type="word_end"/>&quot;W<gap reason="illegible" extent="3"
+                        unit="char"/>'t<pc force="strong">-</pc>fairy<pc force="strong"
+                        >-</pc>that<pc force="strong">-</pc>sings.&quot;<lb type="word_end"
+                    />Unfortunately, it faded very<lb type="word_end"/>quickly; &amp; except that
+                        it<lb type="word_end"/>began in a picture<pc force="strong">-</pc>hall
+                        &amp;<lb type="word_end"/>finished in <placeName>Hyde Park</placeName>
+                        where<lb type="word_end"/>a river that had been frozen was<lb
+                        type="word_end"/>breaking free, I remember little<lb type="word_end"/>of it.
+                    There was a buffalo<lb type="word_end"/>which had plunged its horn<lb
+                        type="word_end"/>into a man of h<gap reason="illegible" extent="3"
+                        unit="char"/>, &amp; fled<lb type="word_end"/>in terror as the h<gap
+                        reason="illegible" extent="3" unit="char"/>
+                    <gap reason="deleted"/><lb type="word_end"/><gap reason="deleted"/> burst into
+                    flame; and a<lb type="word_end"/>pair of girls on a tram car<lb type="word_end"
+                    />platform who had brilliant<lb type="word_end"/>auburn hair into which
+                        stacks<lb type="word_end"/>of greyish seeding grass was<lb type="word_end"
+                    />woven. But I have lost the<lb type="word_end"/>thread of the fantasy.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Went to the library to see<lb
+                        type="word_end"/> if <persName>Phil</persName> had got the Herald<lb
+                        type="word_end"/>job. Wasted an hour in<lb type="word_end"/>erotic dallyings
+                    &amp; in despair<lb type="word_end"/>(at the drifting, which this<lb
+                        type="word_end"/>mood always causes) set off<lb type="word_end"/>for the
+                        <placeName>V</placeName> or <placeName>Albert</placeName><choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>And, by God, I read
+                        <surname>O'Neill's</surname><lb type="word_end"/><title type="drama"
+                        >&quot;Desire under the Elms.&quot;</title> O<lb type="word_end"
+                        /><placeName>America</placeName>! At the passionate<lb type="word_end"
+                    />crisis of the drama<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice> a man<lb type="word_end"/>on the brink of a seduction<lb
+                        type="word_end"/>scene dallies in wet<pc force="strong">-</pc>shirt<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice><lb type="word_end"/>bare feet &amp; <hi rend="ul">no trousers</hi>,
+                        with<lb type="word_end"/><pb n="35"/>his hat in his hand &amp; cries<lb
+                        type="word_end"/><quote>Oh Maw, whar air yew?</quote><lb type="word_end"
+                    />After persuading himself that<lb type="word_end"/>the invisible presence of
+                    his dead<lb type="word_end"/>&quot;Maw&quot; approves of it, he is able<lb
+                        type="word_end"/>to fornicate happily. But the<lb type="word_end"/>strange
+                    thing is, that while he<lb type="word_end"/>is heritating in fear of hearing
+                        a<lb type="word_end"/>familiar voice shout &quot;Put that<lb type="word_end"
+                    />down, Willie,&quot; his partner, the<lb type="word_end"/>seductive lady is
+                    quite willing<lb type="word_end"/>to postpone the satisfaction of<lb
+                        type="word_end"/>her desire, in deference to the<lb type="word_end"/>shade.
+                    Maw evidently dominates<lb type="word_end"/>American life completely<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice></p>
+            </div>
+            <div type="entries" n="14">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-19">Wed 19/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Bitterly cold with occasional<lb
+                        type="word_end"/>puffs of tiny ice<pc force="strong">-</pc>flakes
+                        falling.<lb type="word_end"/>To <placeName>Shep. Bush</placeName>.
+                        <surname>Bird</surname> &amp; <persName>Con</persName><lb type="word_end"
+                    />went with us to the <placeName>Empire</placeName> while<lb type="word_end"
+                        /><pb n="36"/><persName>Gilbert</persName> went to see about the<lb
+                        type="word_end"/>new job. Typical of <persName>Spuggy</persName><lb
+                        type="word_end"/>that he missed most of the performance<lb type="word_end"
+                    />through sketching. I have not<lb type="word_end"/>met anyone more
+                        completely<lb type="word_end"/>absorbed in his art. He sees<lb
+                        type="word_end"/>everything in terms of painting<choice>
+                        <supplied cert="high">.</supplied>
+                    </choice><lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Bought some chips &amp; went to<lb
+                        type="word_end"/><placeName>Holland Park</placeName>.
+                        <persName>Gil</persName>. returned<lb type="word_end"/>with the news that he
+                    had got<lb type="word_end"/>the job. General rejoicing.</p>
+            </div>
+            <div type="entries" n="15">
+                <head><space dim="horizontal" extent="6" unit="cm"/><hi rend="ul"><date
+                            when="1930-03-20">Thur 20/3/30</date></hi></head>
+                <p><space dim="horizontal" extent="1" unit="cm"/><surname>Coppard</surname>'s theory
+                    seems to be<lb type="word_end"/>that a short<pc force="strong">-</pc>story <choice>
+                        <sic>out</sic>
+                        <corr>ought</corr>
+                    </choice> to be<lb type="word_end"/>a personal thing. It ought to<lb
+                        type="word_end"/>acquire unity &amp; atmosphere <del rend="strikethrough"
+                            >by<lb type="word_end"/>being informed</del> because it is<lb
+                        type="word_end"/>informed by the warmth &amp; rhythm<lb type="word_end"/>of
+                    one personality. Without this,<lb type="word_end"/>you have only dry history.<lb
+                        type="word_end"/><pb n="37"/>It is the difference between a tale<lb
+                        type="word_end"/>told in a country inn, shaped<choice>
+                        <supplied cert="high">,</supplied>
+                    </choice><lb type="word_end"/>twisted even, &amp; given savour by<lb
+                        type="word_end"/>the experience of the teller, &amp; the same<lb
+                        type="word_end"/>story as it appears in the police<pc force="strong"
+                        >-</pc><lb type="word_internal"/>station report. <persName>George
+                        Moore</persName><lb type="word_end"/>means something of the same with<lb
+                        type="word_end"/>his &quot;melodic line;&quot; the rich <unclear
+                        reason="illegible"/><lb type="word_end"/>of <surname>Sterne</surname> is in
+                    some sense its<lb type="word_end"/>precursor. It gives variety to a<lb
+                        type="word_end"/>volume of stories, which could not<lb type="word_end"/>be
+                    come at so eaily another way.<lb type="word_end"/>Compare <surname>De
+                        Maupassant</surname> &amp; <surname>Coppard</surname><lb type="word_end"
+                    />for instance.<lb type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Had great difficulty in getting<lb
+                        type="word_end"/>a review of <title type="book">All Smoke</title> done,
+                        being<lb type="word_end"/>in one of those moods where every<lb
+                        type="word_end"/><unclear reason="illegible"/> takes on an <gap
+                        reason="illegible" extent="1" unit="char"/>old<lb type="word_end"/>awkward
+                    appearance &amp; its<lb type="word_end"/>meaning seems further &amp; further<lb
+                        type="word_end"/><pb n="38"/>away from what <unclear reason="illegible"/>
+                        intended<lb type="word_end"/>every time you look at it.<lb type="word_end"
+                    />However, it was finished somehow<lb type="word_end"/>at last.<lb
+                        type="word_end"/></p>
+                <p><space dim="horizontal" extent="1" unit="cm"/>Shortage of pennies (for the<lb
+                        type="word_end"/>gas<pc force="strong">-</pc>meter) drove us to bed<lb
+                        type="word_end"/>where we read by candle<pc force="strong">-</pc>light.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
